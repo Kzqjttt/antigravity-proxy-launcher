@@ -1,0 +1,19 @@
+# Local configuration (may contain machine-specific paths or credentials)
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test artefacts
+_selftest*
+*.log
