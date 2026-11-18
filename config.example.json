@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this file to config.json and edit. Command-line flags override these values.",
+  "proxy": null,
+  "app": null,
+  "extra_no_proxy": [],
+  "common_ports": [],
+  "insecure": false
+}
